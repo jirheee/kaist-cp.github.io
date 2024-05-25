@@ -19,3 +19,13 @@ I am currently working on [designing high-level hardware description language]({
 
 
 {% include person_education.md person_id=person_id %}
+
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
+#### Experiences
+
+- Architecture Team Intern, FuriosaAI, April, 2024 - January, 2024.
+  
+  (topic: RoCEv2 & NPU)
